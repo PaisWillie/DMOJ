@@ -16,6 +16,8 @@ public class Problem_2_Great_Graffiti {
 			System.out.println("2");
 		else if (graffiti.contains("D") || graffiti.contains ("M") || graffiti.contains("O") || graffiti.contains ("J"))
 			System.out.println("3");
+		else
+			System.out.println("4");
 		
 	}
 
