@@ -1,0 +1,22 @@
+import java.io.*;
+
+public class Problem_2_Great_Graffiti {
+
+	public static void main(String[] args) throws IOException {
+		
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
+		String graffiti = br.readLine();
+		
+		if (graffiti.contains("DMOJ"))
+			System.out.println("0");
+		else if (graffiti.contains("DMO") || graffiti.contains("MOJ"))
+			System.out.println("1");
+		else if (graffiti.contains("DM") || graffiti.contains("MO") || graffiti.contains("OJ"))
+			System.out.println("2");
+		else if (graffiti.contains("D") || graffiti.contains ("M") || graffiti.contains("O") || graffiti.contains ("J"))
+			System.out.println("3");
+		
+	}
+
+}
