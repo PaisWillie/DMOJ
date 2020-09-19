@@ -2,6 +2,7 @@
 /****************************************************/
 // Problem: CCO '01 P1 - The Monkey Dance
 // Description: https://dmoj.ca/problem/cco01p1
+// Language: Java
 // Created by: Willie Pai
 // Date: 19/09/2020
 /****************************************************/

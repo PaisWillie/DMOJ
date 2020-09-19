@@ -1,7 +1,8 @@
 
 /*********************************************************/
 // Problem: Another Contest 5 Problem 2 - Great Graffiti
-// Description: https://dmoj.ca/problem/cco01p1
+// Description: https://dmoj.ca/problem/acc5p2
+// Language: Java
 // Created by: Willie Pai
 // Date: 07/08/2019
 /*********************************************************/
