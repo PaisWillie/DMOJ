@@ -1,6 +1,14 @@
+
+/*********************************************************/
+// Problem: Another Contest 5 Problem 2 - Great Graffiti
+// Description: https://dmoj.ca/problem/cco01p1
+// Created by: Willie Pai
+// Date: 07/08/2019
+/*********************************************************/
+
 import java.io.*;
 
-public class Problem_2_Great_Graffiti {
+public class Main {
 
 	public static void main(String[] args) throws IOException {
 		
